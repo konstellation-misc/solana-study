@@ -1,0 +1,3 @@
+[submodule "zero_to_production/burhan/z2p"]
+	path = zero_to_production/burhan/z2p
+	url = https://github.com/td-bn/ss-z2p
